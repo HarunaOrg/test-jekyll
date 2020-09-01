@@ -1,3 +1,4 @@
+repository: HarunaOrg/test-jekyll
 collections:
   authors:
     output: true
