@@ -1,8 +1,8 @@
 - name: Home
-  link: /
+  link: /test-jekyll/
 - name: About
-  link: /about
+  link: /test-jekyll/about
 - name: Blog
-  link: /blog
+  link: /test-jekyll/blog
 - name: Staff
-  link: /staff
+  link: /test-jekyll/staff
